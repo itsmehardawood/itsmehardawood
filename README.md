@@ -23,5 +23,5 @@
 - 🧾 [Movie Mind](https://github.com/itsmehardawood/MovieMind) – This is a Movie recommendation or movie info app created by using react next js tailwind css and integrated TMDB API
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmehardawood&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehardawood&layout=compact&theme=radical)
