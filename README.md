@@ -28,12 +28,13 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" alt="Dart"/>
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" alt="Jira"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel"/>
-  <img src="https://raw.githubusercontent.com/railwayapp/logos/main/logo-icon.svg" width="40" alt="Railway"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.svg" width="40" alt="Swagger"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma"/>
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" alt="Framer Motion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
+<img src="https://railway.app/brand/logo-icon.png" width="40" alt="Railway"/>
+<img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SW-logo-clr.png" width="40" alt="Swagger"/>
+
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
