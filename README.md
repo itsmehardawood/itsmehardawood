@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Junior Full Stack Developer  
+- 💼 Full Stack Developer  
 - 🧠 Passionate about building intelligent, beautiful UIs  
 - 🧰 Working on AI chat platforms, automation tools & wellness apps  
 - 🌱 Learning Docker 🐳, PostgreSQL 🐘 & advanced GPT APIs  
