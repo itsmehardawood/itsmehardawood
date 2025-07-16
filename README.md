@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Dawood+%F0%9F%91%8B;Full-stack+Developer+%7C+React+%7C+FastAPI+%7C+MongoDB;Building+cool+AI-powered+web+apps+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Dawood+%F0%9F%91%8B;Full-stack+Web+Developer+%7C+React+%7C+FastAPI+%7C+MongoDB;Building+cool+AI-powered+web+apps+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
