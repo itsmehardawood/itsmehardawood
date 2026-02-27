@@ -52,15 +52,17 @@ LinkedIn: https://www.linkedin.com/in/itsmehardawood/
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| Project                                | Description                                                                                                                                                                                                                              |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[CardNest](https://cardnest.io)**    | A modular fintech platform designed for secure card services, KYC workflows, and crypto validation systems. Built with scalable API architecture, role-based dashboards, and service-based extensibility.                                |
-| **[LolliGive](https://lolligive.com)** | A structured digital fundraising platform enabling secure contributions and streamlined campaign management with a clean user experience.                                                                                                |
-| **GreenGen SRL – AI Quotation Engine** | LLM-powered enterprise quotation system that generates fully formatted 7–8 page official documents via chat. Produces dynamic, letterhead-style proposals with product logic, pricing calculations, and structured corporate formatting. |
-| Echo ChatBot                           | GPT-integrated embeddable business chatbot with contextual logic and workflow support.                                                                                                                                                   |
-| School Management System               | Full-stack web application built with modern frontend architecture and backend integration.                                                                                                                                              |
+| Project                                                       | Description                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[CardNest](https://cardnest.io)**                           | A modular fintech platform designed for secure card services, identity workflows, and scalable dashboard architecture with role-based feature control.                                                                                                                                                 |
+| **[KYC Platform – kyc.cardnest.io](https://kyc.cardnest.io)** | Dedicated KYC infrastructure for businesses, providing **web and mobile integrations**. Includes **liveness detection**, **document scanning & verification**, and secure identity validation workflows for customer onboarding. Designed as an embeddable compliance solution for enterprise clients. |
+| **[LolliGive](https://lolligive.com)**                        | A structured digital fundraising platform enabling secure contributions and streamlined campaign management with a modern user experience.                                                                                                                                                             |
+| **GreenGen SRL – AI Quotation Engine**                        | LLM-powered enterprise quotation system that generates fully formatted 7–8 page official documents via chat. Produces dynamic, letterhead-style proposals with product logic, pricing calculations, and structured corporate formatting.                                                               |
+| Echo ChatBot                                                  | GPT-integrated embeddable business chatbot with contextual logic and workflow support.                                                                                                                                                                                                                 |
+| School Management System                                      | Full-stack web application built with modern frontend architecture and backend integration.                                                                                                                                                                                                            
+|
 
 
 
