@@ -5,16 +5,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 💼 Full Stack Developer  
-- 🧠 Passionate about building intelligent, beautiful UIs  
-- 🧰 Working on AI chat platforms, automation tools & wellness apps  
-- 🌱 Learning Docker 🐳, PostgreSQL 🐘 & advanced GPT APIs  
-- 🌍 Open for collaborations, freelance gigs & startup ideas  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/itsmehardawood/)
+I am a Full Stack Developer with a strong focus on building scalable web applications and clean, high-performance user interfaces.
 
----
+Currently working on AI-driven platforms, automation systems, and secure fintech-related solutions. I enjoy transforming complex problems into practical, user-friendly digital products.
+
+Core Focus Areas:
+Frontend Architecture (React, Next.js, Express.js, MongoDB)
+Backend APIs & System Design
+AI Integrations and Automation
+Secure Payment & Validation Systems
+Currently expanding my expertise in:
+Docker and containerized deployments
+Advanced GPT integrations and AI workflows
+
+I am open to meaningful collaborations, product partnerships, and innovative startup opportunities.
+
+Connect with me:
+LinkedIn: https://www.linkedin.com/in/itsmehardawood/
 
 ## 🛠 Tech Stack
 
