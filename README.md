@@ -68,10 +68,10 @@ LinkedIn: https://www.linkedin.com/in/itsmehardawood/
 
 ##  GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmehardawood&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmehardawood&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmehardawood&theme=radical&hide_border=true" width="96%" />
