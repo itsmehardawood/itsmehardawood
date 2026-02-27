@@ -7,25 +7,32 @@
 
 ## About Me
 
-I am a Full Stack Developer with a strong focus on building scalable web applications and clean, high-performance user interfaces.
+Software Engineer focused on building scalable digital products with strong architecture, clean UI systems, and secure backend design.
 
-Currently working on AI-driven platforms, automation systems, and secure fintech-related solutions. I enjoy transforming complex problems into practical, user-friendly digital products.
+I work at the intersection of engineering, product thinking, and fintech innovation, developing real-world platforms powered by modern web technologies and AI integrations.
 
-Core Focus Areas:
-Frontend Architecture (React, Next.js, Express.js, MongoDB)
-Backend APIs & System Design
-AI Integrations and Automation
-Secure Payment & Validation Systems
-Currently expanding my expertise in:
-Docker and containerized deployments
-Advanced GPT integrations and AI workflows
+My approach combines:
+
+System design & scalable architecture
+
+API-driven development
+
+Secure financial workflows
+
+LLM-based automation
+
+Production-ready deployment strategies
+
+I am continuously building solutions that solve real business problems not just applications, but complete products.
 
 I am open to meaningful collaborations, product partnerships, and innovative startup opportunities.
 
 Connect with me:
 LinkedIn: https://www.linkedin.com/in/itsmehardawood/
 
-## 🛠 Tech Stack
+
+
+##  Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
@@ -52,13 +59,15 @@ LinkedIn: https://www.linkedin.com/in/itsmehardawood/
 
 ## 🚀 Featured Projects
 
-| 🧩 Project | 🚀 Description |
-|-----------|----------------|
-| 💬 [**Echo ChatBot**](https://github.com/itsmehardawood/Echo_chatbot) | GPT-powered embeddable chatbot with business logic support |
-| 🧠 [**School Web App**](https://github.com/itsmehardawood/Web_School_Project_NextJs) | Full-stack school app for BAB UL ISLAM built with Next.js |
-| 🎬 [**MovieMind**](https://github.com/itsmehardawood/MovieMind) | React-based movie info/recommendation app using TMDB API |
+| Project                                | Description                                                                                                                                                                                                                              |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[CardNest](https://cardnest.io)**    | A modular fintech platform designed for secure card services, KYC workflows, and crypto validation systems. Built with scalable API architecture, role-based dashboards, and service-based extensibility.                                |
+| **[LolliGive](https://lolligive.com)** | A structured digital fundraising platform enabling secure contributions and streamlined campaign management with a clean user experience.                                                                                                |
+| **GreenGen SRL – AI Quotation Engine** | LLM-powered enterprise quotation system that generates fully formatted 7–8 page official documents via chat. Produces dynamic, letterhead-style proposals with product logic, pricing calculations, and structured corporate formatting. |
+| Echo ChatBot                           | GPT-integrated embeddable business chatbot with contextual logic and workflow support.                                                                                                                                                   |
+| School Management System               | Full-stack web application built with modern frontend architecture and backend integration.                                                                                                                                              |
+| MovieMind                              | React-based application integrating external APIs for dynamic content rendering and user interaction.                                                                                                                                    |
 
----
 
 ## 📈 GitHub Stats
 
