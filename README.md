@@ -8,20 +8,15 @@
 ## About Me
 
 Software Engineer focused on building scalable digital products with strong architecture, clean UI systems, and secure backend design.
-
 I work at the intersection of engineering, product thinking, and fintech innovation, developing real-world platforms powered by modern web technologies and AI integrations.
 
 My approach combines:
 
-System design & scalable architecture
-
-API-driven development
-
-Secure financial workflows
-
-LLM-based automation
-
-Production-ready deployment strategies
+- System design & scalable architecture  
+- API-driven development  
+- Secure financial workflows  
+- LLM-based automation  
+- Production-ready deployment strategies  
 
 I am continuously building solutions that solve real business problems not just applications, but complete products.
 
