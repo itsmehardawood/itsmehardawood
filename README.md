@@ -66,10 +66,10 @@ LinkedIn: https://www.linkedin.com/in/itsmehardawood/
 | **GreenGen SRL – AI Quotation Engine** | LLM-powered enterprise quotation system that generates fully formatted 7–8 page official documents via chat. Produces dynamic, letterhead-style proposals with product logic, pricing calculations, and structured corporate formatting. |
 | Echo ChatBot                           | GPT-integrated embeddable business chatbot with contextual logic and workflow support.                                                                                                                                                   |
 | School Management System               | Full-stack web application built with modern frontend architecture and backend integration.                                                                                                                                              |
-| MovieMind                              | React-based application integrating external APIs for dynamic content rendering and user interaction.                                                                                                                                    |
 
 
-## 📈 GitHub Stats
+
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmehardawood&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -82,7 +82,7 @@ LinkedIn: https://www.linkedin.com/in/itsmehardawood/
 
 ---
 
-## 🌟 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmehardawood&theme=react-dark&area=true&hide_border=true" width="100%"/>
